@@ -4,6 +4,7 @@
   up the numbers in turn. Player 'A' starts first. Pick a winning sequence of
   numbers for 'A' and 'B' so that 'A' wins always, no matter how well 'B' plays.
   Assume that both 'A' and 'B' picks the best numbers possible.
+  Note: It can be shown that 'A' will always win.
 '''
 
 def win_for_a(numbers, total_a, total_b, seq_a, seq_b):
