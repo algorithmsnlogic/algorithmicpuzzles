@@ -1,0 +1,4 @@
+algorithmicpuzzles
+==================
+
+Collection of algorithmicpuzzles
