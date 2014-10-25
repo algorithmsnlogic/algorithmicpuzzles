@@ -1,4 +1,5 @@
 algorithmicpuzzles
 ==================
 
-Collection of algorithmicpuzzles. You are welcome to improve the algorithm.
+Collection of algorithmicpuzzles. Many implementations are sub-optimal.
+You are welcome to improve the algorithms.
